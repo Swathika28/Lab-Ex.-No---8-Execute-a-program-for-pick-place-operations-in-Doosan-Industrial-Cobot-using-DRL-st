@@ -53,7 +53,7 @@ MoveJ ................
 
 ## Results: 
 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
