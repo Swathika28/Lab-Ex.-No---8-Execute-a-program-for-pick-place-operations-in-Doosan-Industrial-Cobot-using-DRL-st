@@ -40,13 +40,16 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no:212221230113
 
-//Name:
+//Name:Swathika.G
 MoveJ ................
 
 ## output : 
-
+![d industries](dk.png)
+![d industries](dk1.png)
+![d industries](dk2.png)
+![d industries](dk3.png)
 
 ## Results: 
 
